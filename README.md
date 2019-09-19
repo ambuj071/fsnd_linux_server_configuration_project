@@ -1,11 +1,11 @@
-# Item Catalog - Udacity
+# Linux Server Configuration - Udacity
 ### Full Stack Web Development ND
 _______________________
 ## About
 
 In this project we use AWS Lightsail to configure a Ubuntu linux server to be used as a secure webserver.
 
-##IP/URL
+## IP/URL
 52.37.16.101
 
 ## Summary of Software Installed
